@@ -1,0 +1,68 @@
+body{
+    
+    
+}
+nav{
+    background-color: #EADDCA;
+}
+li{
+    margin-left: 400px;
+}
+.logo{
+    width: 350px;
+}
+
+.conteudo-principal{
+
+    display: flex;
+    margin-inline: 15px;
+}
+.card{
+    margin-top: 45px;
+    margin-inline: 45px;
+}
+.titulo-categoria{
+    margin-top: 45px;
+    margin-left: 850px;
+}
+#botao-comprar{
+    background-color: #EADDCA;
+    border: 2px black;
+    color: black;
+    width: 240px;
+}
+#botao-comprar:hover{
+
+    background-color:#9B6543 ;
+    color: #EADDCA;
+}
+#img-produto{
+
+    width: 250px;
+
+
+}
+
+
+footer{
+   display: flex;
+    height: 200px;
+    background-color: #EADDCA;
+    margin-top:30px ;
+}
+.mapa{
+max-height: 200px;
+margin-left: 1200px  ;
+}
+.redes-sociais{
+
+}
+h2:hover{
+    color: #9B6543;
+}
+.insta{
+    
+    margin-inline: 10px;
+    max-width: 200px;
+    max-height: 200px;
+}
